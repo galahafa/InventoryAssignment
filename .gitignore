@@ -1,0 +1,5 @@
+/inventory/migrations/
+/.idea/
+/static/rest_framework/
+/static/admin
+/venv/
